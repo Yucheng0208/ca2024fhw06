@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mercator map of the starry heavens
+* source:	https://sketchfab.com/3d-models/mercator-map-of-the-starry-heavens-a24a7ad72c5c4cbd8bb6dfda217603d7
+* author:	commonfactory (https://sketchfab.com/commonfactory)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mercator map of the starry heavens" (https://sketchfab.com/3d-models/mercator-map-of-the-starry-heavens-a24a7ad72c5c4cbd8bb6dfda217603d7) by commonfactory (https://sketchfab.com/commonfactory) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
